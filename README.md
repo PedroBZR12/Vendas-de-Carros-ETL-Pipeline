@@ -22,7 +22,7 @@
 
 
 ## Como rodar:
-- git clone https://github.com/PedroBZR12/vendas-de-carros-etl-pipeline.git
+- git clone https://github.com/PedroBZR12/Vendas-de-Carros-ETL-Pipeline
 - cd us-automotive-etl
 - python pipeline.py
 
